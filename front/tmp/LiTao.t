@@ -1,5 +1,7 @@
 {
 	bool A;
+	bool B;
 	A=false;
-	A=A&&A;
+	B=false;
+	A=A&&B;
 }
