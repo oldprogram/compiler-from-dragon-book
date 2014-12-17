@@ -43,3 +43,7 @@ Temporary Items
 .apdisk
 
 *.class
+*.bak
+front/tmp/LiTao.t
+front/tmp/LiTao.i
+front/tmp/LiTao.t
